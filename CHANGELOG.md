@@ -4,6 +4,15 @@
 ### New
 
 * [ATLAS-000] Fix changlelog.md ([c98db05](https://github.com/tonayr/github-tools/commit/c98db0557c4ad6fb9b73bc29a33dbf3efedc738c))
+* [ATLAS-000] Fix readme ([fdb98fa](https://github.com/tonayr/github-tools/commit/fdb98fa90b6d06495091d97f551467dc0899fcb2))
+* [ATLAS-000] Remove duplicated tag (#8) ([28fe9d1](https://github.com/tonayr/github-tools/commit/28fe9d1638fe78acc68e914dabde3b19b6e6fe2a)), closes [#6](https://github.com/tonayr/github-tools/issues/6) [#8](https://github.com/tonayr/github-tools/issues/8)
+
+# [1.5.0](https://github.com/tonayr/github-tools/compare/1.4.0...1.5.0) (2023-06-13)
+
+
+### New
+
+* [ATLAS-000] Fix changlelog.md ([c98db05](https://github.com/tonayr/github-tools/commit/c98db0557c4ad6fb9b73bc29a33dbf3efedc738c))
 * [ATLAS-000] Remove duplicated tag (#8) ([28fe9d1](https://github.com/tonayr/github-tools/commit/28fe9d1638fe78acc68e914dabde3b19b6e6fe2a)), closes [#6](https://github.com/tonayr/github-tools/issues/6) [#8](https://github.com/tonayr/github-tools/issues/8)
 
 # [1.3.0](https://github.com/tonayr/github-tools/compare/1.2.0...1.3.0) (2023-06-13)
