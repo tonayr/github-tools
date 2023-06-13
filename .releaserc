@@ -52,7 +52,10 @@
           }
         ]
       }
-    ]
+    ],
+    ["@semantic-release/exec", {
+          "prepareCmd": "./release ${nextRelease.version}",
+        }],
   ]
 }
 
