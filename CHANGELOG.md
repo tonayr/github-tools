@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/tonayr/github-tools/compare/2.0.0...2.0.1) (2023-06-13)
+
+
+### Fix
+
+* [ATLAS-000] Manual tagging so the tag is signed ([6789b23](https://github.com/tonayr/github-tools/commit/6789b23f50b2b360212b060cd779310391526420)), closes [#11](https://github.com/tonayr/github-tools/issues/11)
+
 # [1.5.0](https://github.com/tonayr/github-tools/compare/1.4.0...1.5.0) (2023-06-13)
 
 
