@@ -30,6 +30,15 @@
 
 ### Fix
 
+* [ATLAS-000] Back to manual ([9ee9828](https://github.com/tonayr/github-tools/commit/9ee9828ab7242e6db1a0b44b305fa654f075c3fb)), closes [#11](https://github.com/tonayr/github-tools/issues/11)
+* [ATLAS-000] Back to manual ([7ebc105](https://github.com/tonayr/github-tools/commit/7ebc105b1adfaa295912a6e4efbab49ffbfd18e2)), closes [#11](https://github.com/tonayr/github-tools/issues/11)
+* [ATLAS-000] Manual tagging so the tag is signed ([6789b23](https://github.com/tonayr/github-tools/commit/6789b23f50b2b360212b060cd779310391526420)), closes [#11](https://github.com/tonayr/github-tools/issues/11)
+
+## [2.0.1](https://github.com/tonayr/github-tools/compare/2.0.0...2.0.1) (2023-06-13)
+
+
+### Fix
+
 * [ATLAS-000] Back to manual ([7ebc105](https://github.com/tonayr/github-tools/commit/7ebc105b1adfaa295912a6e4efbab49ffbfd18e2)), closes [#11](https://github.com/tonayr/github-tools/issues/11)
 * [ATLAS-000] Manual tagging so the tag is signed ([6789b23](https://github.com/tonayr/github-tools/commit/6789b23f50b2b360212b060cd779310391526420)), closes [#11](https://github.com/tonayr/github-tools/issues/11)
 
